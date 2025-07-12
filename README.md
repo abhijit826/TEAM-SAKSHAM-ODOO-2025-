@@ -22,3 +22,4 @@ StackIt is a lightweight Q&amp;A platform promoting collaborative learning with 
   <li>Chandraveer Singh (cs1419@srmist.edu.in)</li>
   <li>Amit Reddy (jsammureddy140804@gmail.com)</li>
 </ul>
+<img width="1902" height="973" alt="Screenshot 2025-07-12 112239" src="https://github.com/user-attachments/assets/3e445650-9bb3-4858-af3f-415eeb4cb25e" />
